@@ -211,3 +211,10 @@ If the OLED does not turn on, check its wiring and power first. If Windows can p
 - Action capacity: **16 assignments per profile**
 
 The Windows application is responsible for the live connection indicator. A Bluetooth pairing entry in Windows alone is not proof that the application has an active serial session.
+
+---
+
+## Connect with me
+
+- **YouTube:** [@rejoan-siyam](https://www.youtube.com/@rejoan-siyam)
+- **Instagram:** [@rst.siu](https://www.instagram.com/rst.siu/)
