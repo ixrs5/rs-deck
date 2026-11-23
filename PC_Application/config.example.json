@@ -1,0 +1,295 @@
+{
+  "version": 1,
+  "serial_port": "",
+  "chrome_path": "",
+  "auto_detect": true,
+  "start_with_windows": false,
+  "minimize_to_tray": true,
+  "selected_profile": "default",
+  "profiles": [
+    {
+      "id": "default",
+      "name": "Default",
+      "exe": "",
+      "actions": [
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "id": "premiere",
+      "name": "Adobe Premiere Pro",
+      "exe": "Adobe Premiere Pro.exe",
+      "actions": [
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "id": "photoshop",
+      "name": "Adobe Photoshop",
+      "exe": "Photoshop.exe",
+      "actions": [
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "id": "obs",
+      "name": "OBS Studio",
+      "exe": "obs64.exe",
+      "actions": [
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        },
+        {
+          "type": "none",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}
