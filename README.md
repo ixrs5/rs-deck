@@ -5,7 +5,7 @@
 RS-Deck connects to a Windows PC over Bluetooth. Eight buttons provide the main layer, and the Shift button gives access to eight more actions. The Windows application handles profiles, button assignments and connection status.
 
 ---
-##Components
+###Components
 ![RS-Deck Components List](components.png)
 ## 1. Wiring
 
