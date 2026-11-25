@@ -5,7 +5,8 @@
 RS-Deck connects to a Windows PC over Bluetooth. Eight buttons provide the main layer, and the Shift button gives access to eight more actions. The Windows application handles profiles, button assignments and connection status.
 
 ---
-###Components
+## Components
+
 ![RS-Deck Components List](components.png)
 ## 1. Wiring
 
@@ -51,7 +52,7 @@ For a four-leg tactile switch, use one leg from each of its two internally conne
 | Module regulated 5V output positive | ESP32 VIN / 5V, through the slide switch |
 | Module output negative | ESP32 GND |
 
-**Power switch:** Add a small ON/OFF slide switch in series with the positive 5V output wire, between the charging/boost module's `V+` output and the ESP32 `VIN / 5V` pin. This lets the switch disconnect power to the ESP32. Do not put the switch in the GND wire.
+**Power switch:** Add a small ON/OFF slide switch in series with the positive 5V wire, using this order: **charging/boost module `V+` output → slide switch → ESP32 `VIN / 5V`**. This lets the switch disconnect power to the ESP32. Do not put the switch in the GND wire.
 
 > **Important:** Check the labels on your charging/boost module and measure its output with a multimeter before connecting it to the ESP32. Only connect it to VIN/5V after confirming that the output is a regulated 5V. Never connect the battery directly to the 5V pin.
 
